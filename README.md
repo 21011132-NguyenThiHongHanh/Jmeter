@@ -1,6 +1,11 @@
-Hiệu năng của trang web: baomoi.com
-Tổng kết đánh giá: 
-Mô tả trang web:
+
+# Mô tả bài tập
+- Mô tả bài tập: Bài tập này nhằm mục đích kiểm tra hiệu suất của trang web "baomoi.com" .Quan tâm đến thời gian phản hồi, tỉ lệ lỗi, và khả năng xử lý request của máy chủ
+# Kịch bản kiểm tra
+- Kịch bản kiểm tra:
+    + Tạo một HTTP Request để truy cập vào trang "baomoi.com".
+    + Sử dụng JMeter để tạo tải trọng với 999 request.
+    + Thu thập dữ liệu về thời gian phản hồi, tỉ lệ lỗi, và khả năng xử lý request của       máy chủ.
 # Jmeter
 Tên http request : HomePage
 Số lượng request đã thực hiện : 999
@@ -16,6 +21,7 @@ Số request server có thể sử lý: 39.9/sec
 Thông lượng KB nhận được: 2056.94/s
 Thông lượng KB gửi đi : 8.52/s
 
+Hình ảnh
 ![Screenshot 2024-05-30 085310](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/3fedee1e-fc0f-4c95-bced-19ab8abcfda5)
 
 
@@ -39,3 +45,9 @@ C:\Users\Hong Hanh\Pictures\Screenshots\Scr![Screenshot 2024-05-30 085355](https
 eenshot 2024-05-30 085355.png
 ![Screenshot 2024-05-30 090607](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/96ac17aa-d3fa-4707-821f-cca7543c062d)
 
+# Tổng kết đánh giá: 
+Thời gian phản hổi trung bình cho các request trên HomePage khá cao là 9313ms
+Tỉ lệ % lỗi của trang web khá cao là 83.78%
+Trong nhóm chủ đề 1-211, không có lỗi nào được báo cáo và thời gian phản hồi là 8374ms, độ trễ là 7675ms, đều ổn định
+Kích thước tổng thể của trang web khá lớn đòi hỏi tốc độ mạng cao để tải và không gây cản trở cho người dùng
+--> Tóm lại, trang web cần cải thiện hiệu suất và giảm tỉ lệ lỗi để cung cấp trải nghiệm tốt hơn cho người dùng
