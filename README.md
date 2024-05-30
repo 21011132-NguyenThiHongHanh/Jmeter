@@ -1,3 +1,6 @@
+Hiệu năng của trang web: baomoi.com
+Tổng kết đánh giá: 
+Mô tả trang web:
 # Jmeter
 Tên http request : HomePage
 Số lượng request đã thực hiện : 999
