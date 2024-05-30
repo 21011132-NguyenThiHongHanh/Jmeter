@@ -1,17 +1,17 @@
 
 # Mô tả bài tập
-- Mô tả bài tập: Bài tập này nhằm mục đích kiểm tra hiệu suất của trang web "baomoi.com" .Quan tâm đến thời gian phản hồi, tỉ lệ lỗi, và khả năng xử lý request của máy chủ
+- Mô tả bài tập: Bài tập này nhằm mục đích kiểm tra hiệu suất của trang web "baomoi.com" lấy tên HomePage .Quan tâm đến thời gian phản hồi, tỉ lệ lỗi, và khả năng xử lý request của máy chủ
 # Kịch bản kiểm tra
 - Kịch bản kiểm tra:
     + Tạo một HTTP Request để truy cập vào trang "baomoi.com".
     + Sử dụng JMeter để tạo tải trọng với 999 request.
-    + Thu thập dữ liệu về thời gian phản hồi, tỉ lệ lỗi, và khả năng xử lý request của       máy chủ.
+    + Thu thập dữ liệu về thời gian phản hồi, tỉ lệ lỗi, và khả năng xử lý request của máy chủ.
 # Jmeter
 + Tên http request : HomePage
 + Số lượng request đã thực hiện : 999
-+ Thời gian phản hồi trung bình: 9313 ms
-+ Thời gian sử ly request ở giữa: 8319 ms
-+ 90% Line: nghĩa là 90% số requests sẽ có trong đáp ứng nhỏ hơn giá trị hiện thị trong table, 10% số requests còn lại sẽ có thời gian đáp ứng lớn hơn gtri hiển thị trong table là 13885 ms 
++ Thời gian phản hồi trung bình: 9313ms
++ Thời gian sử ly request ở giữa: 8319ms
++ 90% Line: nghĩa là 90% số requests sẽ có trong đáp ứng nhỏ hơn giá trị hiện thị trong table, 10% số requests còn lại sẽ có thời gian đáp ứng lớn hơn gtri hiển thị trong table là 13885ms 
 + 95% Line: nghĩa là 95% số requests sẽ có trong đáp ứng nhỏ hơn giá trị hiện thị trong table, 5% số requests còn lại sẽ có thời gian đáp ứng lớn hơn gtri hiển thị trong table là 14767ms
 + 99% Line: nghĩa là 95% số requests sẽ có trong đáp ứng nhỏ hơn giá trị hiện thị trong table, 1% số requests còn lại sẽ có thời gian đáp ứng lớn hơn gtri hiển thị trong table là 22295ms
 + Thời gian ngắn nhất: 2722ms
