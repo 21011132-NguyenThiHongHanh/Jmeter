@@ -30,5 +30,6 @@ Kiểu dữ liệu: text
 Phản hôi: 200
 Tin nhắn phẩn hồi: OK
 
-C:\Users\Hong Hanh\Pictures\Screenshots\Screenshot 2024-05-30 085355.png
+C:\Users\Hong Hanh\Pictures\Screenshots\Scr![Screenshot 2024-05-30 085355](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/77d4a2f7-9553-48b3-b9b6-5198019f1b46)
+eenshot 2024-05-30 085355.png
 C:\Users\Hong Hanh\Pictures\Screenshots\Screenshot 2024-05-30 090327.png
