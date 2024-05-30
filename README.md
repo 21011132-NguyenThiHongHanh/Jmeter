@@ -13,7 +13,9 @@ Số request server có thể sử lý: 39.9/sec
 Thông lượng KB nhận được: 2056.94/s
 Thông lượng KB gửi đi : 8.52/s
 
-C:\Users\Hong Hanh\Pictures\Screenshots\Screenshot 2024-05-30 085310.png
+![Screenshot 2024-05-30 085310](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/3fedee1e-fc0f-4c95-bced-19ab8abcfda5)
+
+
 # Jmeter
 Nhóm chủ đề :1-211
 Thời gian bắt đầu: 2024-05-30 05:49:30
@@ -32,4 +34,5 @@ Tin nhắn phẩn hồi: OK
 
 C:\Users\Hong Hanh\Pictures\Screenshots\Scr![Screenshot 2024-05-30 085355](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/77d4a2f7-9553-48b3-b9b6-5198019f1b46)
 eenshot 2024-05-30 085355.png
-C:\Users\Hong Hanh\Pictures\Screenshots\Screenshot 2024-05-30 090327.png
+![Screenshot 2024-05-30 090607](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/96ac17aa-d3fa-4707-821f-cca7543c062d)
+
