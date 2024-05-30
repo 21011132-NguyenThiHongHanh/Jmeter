@@ -42,10 +42,24 @@ Hình ảnh
 + Tin nhắn phẩn hồi: OK
 
 Hình ảnh
-C:\Users\Hong Hanh\Pictures\Screenshots\Scr![Screenshot 2024-05-30 085355](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/77d4a2f7-9553-48b3-b9b6-5198019f1b46)
-eenshot 2024-05-30 085355.png
-![Screenshot 2024-05-30 090607](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/96ac17aa-d3fa-4707-821f-cca7543c062d)
+![Screenshot 2024-05-30 085355](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/77d4a2f7-9553-48b3-b9b6-5198019f1b46)
 
+![Screenshot 2024-05-30 090607](https://github.com/21011132-NguyenThiHongHanh/Jmeter/assets/124747121/96ac17aa-d3fa-4707-821f-cca7543c062d)
+# Kết luận về hiệu năng trang web
++ Thời gian phản hồi trung bình khá cao, đạt 9319ms --> điều này có thể làm giảm trải nghiệm người dùng và cần được cải thiện
++ Tỉ lệ lỗi đáng lo ngại (83.78%) cần phải tìm hiểu nguyên nhân để khắc phục
++ Số request server có thể xử lý mỗi giây là 39.9, điều này có thể là một hạn chế đối với việc đáp ứng nhu cầu của người dùng.
++ Nhóm Chủ Đề 1-211: Trong nhóm này, thời gian tải và độ trễ ổn định, không gặp phải lỗi. Điều này cho thấy rằng không phải tất cả các phần của trang web đều gặp vấn đề về hiệu suất
+  -->Dựa vào các vấn đề trên, để kiểm tra hiệu năng của trang web, cần thực hiện các bước sau:
+- Phân tích và Điều tra nguyên nhân:
+    + Xác định nguyên nhân của thời gian phản hồi chậm và tỉ lệ lỗi cao.
+    + Kiểm tra xem có vấn đề về cấu hình máy chủ, mã nguồn, hoặc tài nguyên hệ thống không.
+- Thử nghiệm và đánh giá lại
+    + Thực hiện kiểm tra lại sau khi thực hiện các biện pháp tối ưu hóa để xác định hiệu quả của chúng.
+    + Theo dõi và đánh giá lại các chỉ số hiệu suất để đảm bảo rằng đã đạt được cải thiện.
+- Giám sát liên tục:
+    + Thực hiện giám sát liên tục để phát hiện và xử lý sớm các vấn đề về hiệu suất.
+    + Sử dụng các công cụ giám sát hệ thống để theo dõi và phản ứng nhanh chóng khi có vấn đề xảy ra.
 # Tổng kết đánh giá: 
 + Thời gian phản hổi trung bình cho các request trên HomePage khá cao là 9313ms
 + Tỉ lệ % lỗi của trang web khá cao là 83.78%
